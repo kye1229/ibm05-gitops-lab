@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kinde: Deployment
 metadata:
   name: bgd
-  namespace: vgd
+  namespace: bgd
   labels:
     app: bgd
 spec:
