@@ -10,4 +10,4 @@ resources:
 images:
 - name: yaeeun67/hello-app
   newName: yaeeun67/hello-app
-  newTag: 2ead2bf
+  newTag: 6c5f2e9
